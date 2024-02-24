@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Multi-state-form/static/css/main.b9b06113.css",
+    "main.js": "/Multi-state-form/static/js/main.c83f082b.js",
+    "static/js/453.4789749f.chunk.js": "/Multi-state-form/static/js/453.4789749f.chunk.js",
+    "static/media/bg-sidebar-desktop.svg": "/Multi-state-form/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/icon-advanced.svg": "/Multi-state-form/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "static/media/icon-thank-you.svg": "/Multi-state-form/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "index.html": "/Multi-state-form/index.html",
+    "static/media/icon-pro.svg": "/Multi-state-form/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "static/media/icon-arcade.svg": "/Multi-state-form/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.b9b06113.css.map": "/Multi-state-form/static/css/main.b9b06113.css.map",
+    "main.c83f082b.js.map": "/Multi-state-form/static/js/main.c83f082b.js.map",
+    "453.4789749f.chunk.js.map": "/Multi-state-form/static/js/453.4789749f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9b06113.css",
+    "static/js/main.c83f082b.js"
+  ]
+}
