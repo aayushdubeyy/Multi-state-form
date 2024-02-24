@@ -1,0 +1,12 @@
+.sidebar{
+    background-image: url("../../images/bg-sidebar-desktop.svg");
+    background-size: cover;
+    background-position: center;
+    /* margin-top: 10rem; */
+}
+.sidebar-info{
+    font-weight: 600;
+}
+.number{
+    border-radius: 50%;
+}

@@ -1,0 +1,47 @@
+label {
+    pointer-events: none;
+  }
+  
+  .input {
+    display: none;
+  }
+  
+  
+  .input:checked + .toggle-wrapper > .selector {
+    left: calc(100% - 54px);
+    background-color: #FFFFFF;
+  }
+  
+  .toggle-wrapper {
+    position: relative;
+    width: 60px;
+    height: 30px;
+    background-color: #03295A;
+    border-radius: 999px;
+    margin: auto;
+    cursor: pointer;
+    pointer-events: all;
+    /* box-shadow: 0 8px 14px 0 rgba(darken(#ee5f39, 12%), 0.12); */
+  }
+  
+  .toggle-wrapper .selector {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50%;
+    left: 33px;
+    transform: translateY(-50%);
+    background-color: #FFFFFF;
+    transition: left 0.25s ease;
+    border-radius: 50%;
+  }
+  
+  .notification {
+    font-size: 20px;
+    width: 100%;
+  }
+  
+  .notification .selected:before {
+    font-size: 20px;
+    border-bottom: 2px solid;
+  }
